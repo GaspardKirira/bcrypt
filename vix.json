@@ -1,0 +1,27 @@
+{
+  "name": "bcrypt",
+  "namespace": "gk",
+  "version": "0.1.0",
+  "type": "header-only",
+  "include": "include",
+  "license": "MIT",
+  "description": "Minimal header-only bcrypt password hashing and verification utilities for C++.",
+  "keywords": [
+    "bcrypt",
+    "password",
+    "hashing",
+    "authentication",
+    "security",
+    "crypto",
+    "cpp",
+    "header-only",
+    "vix"
+  ],
+  "repository": "https://github.com/Gaspardkirira/bcrypt",
+  "authors": [
+    {
+      "name": "Gaspard Kirira",
+      "github": "Gaspardkirira"
+    }
+  ]
+}
